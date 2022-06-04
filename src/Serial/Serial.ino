@@ -36,7 +36,7 @@ bool bitParidade(char dado){
 ISR(TIMER1_COMPA_vect){
   //>>>> Codigo Aqui <<<<
 }
-
+ 
 // Executada uma vez quando o Arduino reseta
 void setup(){
   //desabilita interrupcoes
