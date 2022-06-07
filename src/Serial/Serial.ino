@@ -148,7 +148,7 @@ void loop ( ) {
   if(aux == 0 && Serial.available() > 0){
     aux++;
     digitalWrite(RTS, HIGH);
-  }else if(CTS == HIGH && aux == 1){
+  }else if(digitalRead(CTS) == HIGH && aux == 1){
     aux++;
     iniciaTemporizador();
   }//Se finaliza é igual a 1, paramos o temporizador e setamos o RTS para 0.
