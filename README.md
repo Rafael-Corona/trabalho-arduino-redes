@@ -23,7 +23,7 @@ Lista de componentes necessários para testar o projeto:
 - Placa arduíno uno: 2
 - Cabo usb AM/BM: 2
 - computador: 2
-- Jumpers macho/macho: 3
+- Jumpers macho/macho: 3  
 Para poder testar o sistema, é necessário instalar nos 2 computadores a [interface de desenvolvimento Arduino](https://www.arduino.cc/en/software)  
 
 
