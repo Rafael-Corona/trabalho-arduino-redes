@@ -51,7 +51,7 @@ Para configurar o receptor, pegue o código do emissor disponível no [Git do gr
 Visão do emissor, após enviar a mensagem "USP":  
 ![Portas utilizadas em foco](/images/captura-tela.png)  
 Visão do receptor, após receber a mensagem "USP":  
-![Tela do receptor](/images/)
+![Tela do receptor](/images/foto-tela.jpg)
 
 ## Problemas encontrados  
 ## Comentários adicionais  
