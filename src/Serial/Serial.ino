@@ -152,7 +152,7 @@ void loop ( ) {
   }//Se finaliza é igual a 1, paramos o temporizador e setamos o RTS para 0.
   else if(finaliza == 1){
     paraTemporizador();
-    dalay(HALF_BAUD);
+    delay(HALF_BAUD);
     digitalWrite(RTS, LOW);
     finaliza = 0;
     aux = 0;
