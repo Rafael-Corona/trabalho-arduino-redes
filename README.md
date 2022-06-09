@@ -47,11 +47,11 @@ Para configurar o receptor, pegue o código do emissor disponível no [Git do gr
 
 ## Demonstração do funcionamento
 
-[Link para o video](https://drive.google.com/file/d/1oB4xWgB4pqJyI3-xkTnc5sU9GDMeOZTq/view?usp=sharing)  
-Visão do emissor, após enviar a mensagem "USP":  
+- [Link para o video](https://drive.google.com/file/d/1oB4xWgB4pqJyI3-xkTnc5sU9GDMeOZTq/view?usp=sharing)  
+- Visão do emissor, após enviar a mensagem "USP":  
 ![Portas utilizadas em foco](/images/captura-tela.png)  
-Visão do receptor, após receber a mensagem "USP":  
-![Tela do receptor](/images/foto-tela.jpg)
+- Visão do receptor, após receber a mensagem "USP":  
+![Tela do receptor](/images/captura-tela-recep.jpg)
 
 ## Problemas encontrados  
 ## Comentários adicionais  
