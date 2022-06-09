@@ -55,4 +55,5 @@ Para configurar o receptor, pegue o código do emissor disponível no [Git do gr
 - [Outros arquivos](https://drive.google.com/drive/folders/1oR-nSDk2qPG404AZytQimkgOwL5OEv9z?usp=sharing)
 
 ## Problemas encontrados  
+Na hora de testarmos com o outro grupo, encontramos problemas de compatibilidade, já que cada grupo inplementou a comunicação com pequenas diferenças. Após uma breve discussão, optamos por um padrão e adequamos ambos códigos a ele. Isso mostra a importância de se definir protocolos bem estruturados para a comunicação.
 ## Comentários adicionais  
