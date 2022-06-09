@@ -13,7 +13,7 @@ Trabalho de Redes de Computadores - ICMC - 1 semestre - 2022
 ## Grupo
  - Rafael Corona | Número USP: 4769989
  - Leonardo Gabriel Fusineli Silva |  Número USP: 11218841
- - Luccas Stroppa Saliba Barizon | Número USP: 
+ - Luccas Stroppa Saliba Barizon | Número USP: 11275022
 
 ## Descrição do Projeto
 Neste projeto, vamos implementar uma comunicação síncrona entre duas plataformas Arduino. A comunicação conta com detecção de erros feita por bit de paridade e um handshake simples entre emissor e receptor. Nosso grupo ficou responsável por programar o transmissor.
