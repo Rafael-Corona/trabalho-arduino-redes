@@ -32,7 +32,11 @@ Para poder testar o sistema, é necessário instalar nos 2 computadores a [inter
 ### Montagem do circuito:  
 Cada Arduino deve ser conectado a um computador com um cabo USB AM/BM. A comunicação entre os microcontroladores será feita com os 3 jumpers, que devem ser conectados nas portas 11, 12 e 13 de cada Arduino, como mostram as imagens:
 
-(inserir imagem)
+![Circuito montado](/images/photo4974681665305684750.jpg)
+![Arduinos em foco](/images/photo4974681665305684751.jpg)
+![Portas utilizadas em foco](/images/photo4974681665305684752.jpg)
+![Portas utilizadas em foco](/images/photo4974681665305684753.jpg)
+
 
 ### Configurando o Emissor
 Para configurar o emissor, basta abrir e carregar o arquivo [Serial.ino](/src/Serial) pela Arduino IDE no microcontrolador escolhido como transmissor. Para enviar as mensagens, utilize o Monitor Serial.
@@ -41,7 +45,8 @@ Para configurar o emissor, basta abrir e carregar o arquivo [Serial.ino](/src/Se
 Para configurar o receptor, pegue o código do emissor disponível no [Git do grupo que programou o receptor](https://www.google.com) e o carregue no microcontrolador escolhido como receptor. Para ler as mensagens recebidas, utilize o Monitor Serial.
 
 ### Vídeo
-(inserir URL do vídeo)
+
+[Link para o video](https://drive.google.com/file/d/1oB4xWgB4pqJyI3-xkTnc5sU9GDMeOZTq/view?usp=sharing)
 
 ## Problemas encontrados  
 ## Comentários adicionais  
