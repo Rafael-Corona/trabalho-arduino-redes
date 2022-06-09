@@ -7,6 +7,7 @@ Trabalho de Redes de Computadores - ICMC - 1 semestre - 2022
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Requisitos](#requisitos)
 * [Tutorial da Utilização da Aplicação](#tutorial-da-utilização-da-aplicação)
+* [Demonstração do funcionamento](#demonstracao-do-funcionamento)
 * [Problemas encontrados](#problemas-encontrados)
 * [Comentários adicionais](#comentários-adicionais)  
 
@@ -44,9 +45,13 @@ Para configurar o emissor, basta abrir e carregar o arquivo [Serial.ino](/src/Se
 ### Configurando o Receptor
 Para configurar o receptor, pegue o código do emissor disponível no [Git do grupo que programou o receptor](https://www.google.com) e o carregue no microcontrolador escolhido como receptor. Para ler as mensagens recebidas, utilize o Monitor Serial.
 
-### Vídeo
+## Demonstração do funcionamento
 
-[Link para o video](https://drive.google.com/file/d/1oB4xWgB4pqJyI3-xkTnc5sU9GDMeOZTq/view?usp=sharing)
+[Link para o video](https://drive.google.com/file/d/1oB4xWgB4pqJyI3-xkTnc5sU9GDMeOZTq/view?usp=sharing)  
+Visão do emissor, após enviar a mensagem "USP":  
+![Portas utilizadas em foco](/images/captura-tela.png)  
+Visão do receptor, após receber a mensagem "USP":  
+![Tela do receptor](/images/)
 
 ## Problemas encontrados  
 ## Comentários adicionais  
