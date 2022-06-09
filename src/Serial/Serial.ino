@@ -46,8 +46,6 @@ void MostraChar(char dado){
       Serial.print("\\n");
     }
     Serial.print("\' e o bit de paridade:");
-
-    
 }
 
 // Rotina de interrupcao do timer1
@@ -60,7 +58,7 @@ ISR(TIMER1_COMPA_vect){
     //Lê o caractere.
     value = Serial.read();
 
-    MostraChar(value);
+    MostraChar(value); //visualizacao
   }
 
  
@@ -154,6 +152,7 @@ void loop ( ) {
   }//Se finaliza é igual a 1, paramos o temporizador e setamos o RTS para 0.
   else if(finaliza == 1){
     paraTemporizador();
+    dalay(HALF_BAUD);
     digitalWrite(RTS, LOW);
     finaliza = 0;
     aux = 0;
